@@ -51,3 +51,4 @@ if __name__ == "__main__":
 
     solutions = solve_nqueens(N)
     print_solutions(solutions)
+
